@@ -26,7 +26,6 @@ export default function Index() {
     }
   };
 
-  console.log(todos);
   return (
     <View
       style={{
